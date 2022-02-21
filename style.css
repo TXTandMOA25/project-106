@@ -1,0 +1,46 @@
+body {
+    font-family: 'Indie Flower', cursive;
+    background-color: rgb(77, 233, 253);
+
+}
+
+.header_div{
+    background: rgb(0, 174, 255);
+    color: rgb(0, 38, 49);
+    border: 3px;
+    border-style: solid;
+    border-color: rgb(0, 130, 134);
+
+}
+
+.header_div p{
+    font-family: 'Indie Flower', cursive;
+    color: rgb(2, 53, 73);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div  button{
+    font-family: 'Indie Flower', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer {
+position: fixed;
+color: rgb(0, 46, 77);
+bottom: 0;
+width: 100%;
+font-size: 18px;
+background-color: rgb(0, 174, 255);
+line-height: 3;
+text-align: center;
+text-shadow: 5px 5px 5px rgba(0, 1, 70, 0.582);
+border: 3px;
+border-style: solid;
+border-color: rgb(0, 130, 134);
+
+}
